@@ -5,9 +5,11 @@
       "usuario": "joshua",
       "contraseña": "12345"
     },
-    "2",
-    "usuario":"docente",
-    "contraseña":"docente"
+    {
+      "id":2 ,
+      "usuario":"docente",
+      "contraseña":"docente"
+    }
   ],
   "Asistencia": [
    
